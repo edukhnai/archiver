@@ -14,19 +14,23 @@ public class Archiver {
                 operation = askOperation();
                 CommandExecutor.execute(operation);
             } catch (WrongZipFileException e) {
+                IOHelper.writeMessage("Вы не выбрали архив или выбрали неверный файл.");
+                System.out.println("---------------------------------------------------");
                 e.printStackTrace();
-                ConsoleHelper.writeMessage("Вы не выбрали архив или выбрали неверный файл.");
+                System.out.println("---------------------------------------------------");
             } catch (Exception e) {
+                IOHelper.writeMessage("Произошла ошибка. Проверьте введенные данные.");
+                System.out.println("---------------------------------------------------");
                 e.printStackTrace();
-                ConsoleHelper.writeMessage("Произошла ошибка. Проверьте введенные данные.");
+                System.out.println("---------------------------------------------------");
             }
 
         } while (operation != Operation.EXIT);
     }
 
-    public static Operation askOperation() throws IOException {
+    public static Operation askOperation() {
         Stream.of(Operation.values())
-                .forEach(operation -> ConsoleHelper.writeMessage(String.format("%s - %s",operation.ordinal(), operation.toString())));
-        return Operation.values()[ConsoleHelper.readInt()];
+                .forEach(operation -> IOHelper.writeMessage(String.format("%s - %s",operation.ordinal(), operation.toString())));
+        return Operation.values()[IOHelper.readInt()];
     }
 }

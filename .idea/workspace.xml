@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="598f5819-f4ad-4ba4-afda-3b98e084ced1" name="Default" comment="" />
+    <list default="true" id="598f5819-f4ad-4ba4-afda-3b98e084ced1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_2_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/IOHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/TestGetFilename.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archiver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/archiver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/ConsoleHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/Archiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/Archiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/ConsoleHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/FileProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/FileProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/TestDeleting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/ZipFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/ZipFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ExitCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ExitCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipAddCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipAddCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipContentCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipContentCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipCreateCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipCreateCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipExtractCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipExtractCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipRemoveCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/katedukhnai/archiver/command/ZipRemoveCommand.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +49,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ZipCommand.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZipCreateCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IOHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/IOHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipFileManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipCommand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Archiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExitCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipAddCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGetFilename.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestGetFilename.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipExtractCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +162,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,26 +185,29 @@
         <option value="$PROJECT_DIR$/src/Archiver.java" />
         <option value="$PROJECT_DIR$/src/command/ExitCommand.java" />
         <option value="$PROJECT_DIR$/src/command/ZipRemoveCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/Operation.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/ConsoleHelper.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/CommandExecutor.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java" />
         <option value="$PROJECT_DIR$/pom.fxml" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/archiver.iml" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManagerTest.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java" />
-        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java" />
+        <option value="$PROJECT_DIR$/GUI.fxml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileManager.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/ConsoleHelper.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/IOHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/TestGetFilename.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java" />
         <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java" />
+        <option value="$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java" />
       </list>
     </option>
   </component>
@@ -83,9 +221,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="width" value="978" />
-    <option name="height" value="1053" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -93,6 +235,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,9 +278,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,12 +286,13 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/javafx-2.2.0.Final.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -178,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZipFileManagerTest">
+  <component name="RunManager" selected="Application.TestGetFilename">
     <configuration name="Archiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.katedukhnai.archiver.Archiver" />
       <module name="archiver" />
@@ -192,6 +335,17 @@
     </configuration>
     <configuration name="TestDeleting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.katedukhnai.archiver.TestDeleting" />
+      <module name="archiver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.katedukhnai.archiver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestGetFilename" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.katedukhnai.archiver.TestGetFilename" />
       <module name="archiver" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -269,11 +423,13 @@
       <item itemvalue="Application.Archiver" />
       <item itemvalue="Application.TestDeleting" />
       <item itemvalue="JUnit.ZipFileManagerTest" />
+      <item itemvalue="Application.TestGetFilename" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ZipFileManagerTest" />
         <item itemvalue="Application.Archiver" />
+        <item itemvalue="Application.TestGetFilename" />
+        <item itemvalue="JUnit.ZipFileManagerTest" />
         <item itemvalue="Application.TestDeleting" />
       </list>
     </recent_temporary>
@@ -292,6 +448,10 @@
       <workItem from="1536742404299" duration="1503000" />
       <workItem from="1536746299169" duration="7385000" />
       <workItem from="1536768240534" duration="19516000" />
+      <workItem from="1536793812069" duration="1065000" />
+      <workItem from="1536857256929" duration="4540000" />
+      <workItem from="1536931852556" duration="4077000" />
+      <workItem from="1536936124416" duration="11700000" />
     </task>
     <servers />
   </component>
@@ -305,31 +465,34 @@
     <history-entry file="ZipFileManagerTest - 2018.09.13 at 01h 24m 38s.xml">
       <configuration name="ZipFileManagerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ZipFileManagerTest - 2018.09.14 at 17h 58m 27s.xml">
+      <configuration name="ZipFileManagerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35355000" />
+    <option name="totallyTimeSpent" value="56737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49895832" weight="0.32912722" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49791667" weight="0.32842106" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052083" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50677085" side_tool="true" visible="true" weight="0.05894737" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" weight="0.32912722" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49322918" visible="true" weight="0.05894737" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947917" weight="0.32912722" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21354167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21354167" />
+      <window_info anchor="bottom" id="Statistic" sideWeight="0.49895832" weight="0.008421052" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49895832" weight="0.24395373" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4984375" weight="0.2431579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -355,50 +518,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ConsoleHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/FileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java" />
     <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -486,6 +606,8 @@
           <caret line="108" column="29" lean-forward="true" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -519,14 +641,7 @@
         <state relative-caret-position="-450" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.fxml" />
     <entry file="file://$PROJECT_DIR$/archiver.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -534,83 +649,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManagerTest.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="375">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManagerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Operation.java">
+    <entry file="file://$PROJECT_DIR$/GUI.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestDeleting.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/exception/PathIsNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java">
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/exception/WrongZipFileException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
           <folding>
-            <element signature="e#805#806#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/FileManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="285">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ConsoleHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -625,67 +706,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/exception/WrongZipFileException.java">
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/exception/PathIsNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipRemoveCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="99" selection-start-line="21" selection-start-column="99" selection-end-line="21" selection-end-column="99" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -696,27 +720,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/FileProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="390">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java">
+    <entry file="file://$PROJECT_DIR$/archive_info_Maya">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipContentCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1247">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="585">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCreateCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/TestGetFilename.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipAddCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/IOHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ExitCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/Archiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/command/ZipExtractCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive_info_code_cats_cnn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/katedukhnai/archiver/ZipFileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -780,7 +890,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -788,7 +897,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <last-edited>javafx-2.2.0.Final</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,7 +1,6 @@
 package com.katedukhnai.archiver;
 
 public class FileProperties {
-
     private String name;
     private long size;
     private long compressedSize;
